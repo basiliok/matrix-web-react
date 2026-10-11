@@ -1,3 +1,3 @@
 export const App = () => {
-    return <div>Factorización QR</div>;
+    return <h1 className="p-8 text-3xl font-bold text-blue-800">Factorización QR</h1>;
 };
